@@ -30,7 +30,7 @@ app.use(
       "http://localhost:5173",
       "http://localhost:3000",
       "http://127.0.0.1:5173",
-      "https://hr-portal-frontend-kb1n.vercel.app/",
+      "https://hr-portal-frontend-kb1n.vercel.app",
     ],
     credentials: true,
     methods: ["GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS"],
